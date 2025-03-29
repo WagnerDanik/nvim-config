@@ -1,0 +1,8 @@
+  ~/.config/nvim
+    lua
+   │  core
+   │ │  keymaps.lua
+   │ └  options.lua                [+] 
+   └  plugins
+    init.lua                       [+] 
+    lazy-lock.json
